@@ -1,0 +1,11 @@
+{
+  "name": "@qix/multipkg-foo",
+  "version": "1.0.0",
+  "description": "Example multi-package repository (foo)",
+  "bin": "./cli.mjs",
+  "license": "CC0",
+  "dependencies": {
+    "@qix/multipkg-bar": "1.0.0",
+    "chalk": "^5.0.0"
+  }
+}

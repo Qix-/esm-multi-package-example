@@ -1,0 +1,8 @@
+{
+  "name": "@qix/esm-multi-package-example",
+  "private": true,
+  "dependencies": {
+    "@qix/multipkg-foo": "./packages/multipkg-foo",
+    "@qix/multipkg-bar": "./packages/multipkg-bar"
+  }
+}

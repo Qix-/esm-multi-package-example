@@ -1,0 +1,7 @@
+{
+  "name": "@qix/multipkg-bar",
+  "version": "1.0.0",
+  "description": "Example multi-package repository (bar)",
+  "main": "index.mjs",
+  "license": "CC0"
+}
